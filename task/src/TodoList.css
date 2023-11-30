@@ -1,0 +1,87 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+}
+
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  color: #4caf50;
+}
+
+.taskInput {
+  width: 70%;
+  margin-right: 10px;
+}
+
+.button_style {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.addBtn {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+.editBtn {
+  background-color: #2196f3;
+  color: #fff;
+}
+
+.saveBtn {
+  background-color: #ff9800;
+  color: #fff;
+}
+
+.cancelBtn {
+  background-color: #e91e63;
+  color: #fff;
+}
+
+.doneBtn {
+  background-color: #00bcd4;
+  color: #fff;
+}
+
+.deleteBtn {
+  background-color: #f44336;
+  color: #fff;
+}
+
+.centerTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.centerTable th,
+.centerTable td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.centerTable th {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+.completedTask {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
