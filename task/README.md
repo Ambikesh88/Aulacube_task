@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+![image](https://github.com/Ambikesh88/Aulacube_task/assets/77687635/9eac142d-dee6-4633-bd1b-0aa95e88b3c4)
+
+![image](https://github.com/Ambikesh88/Aulacube_task/assets/77687635/2137269a-34f7-4c93-bb2f-f1464e4eb61b)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
